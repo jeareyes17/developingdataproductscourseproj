@@ -4,4 +4,8 @@ The github repository contains the requirements for the course project:
 
 1. Shiny Application
 
+
+
 2. R presentation for the product pitch
+
+http://rpubs.com/jeareyes17/dataproductspresentation
